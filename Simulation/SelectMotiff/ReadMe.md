@@ -1,20 +1,14 @@
-# Quantumograph  
-
-[Numerical Checks: RG flow, Regge action, Discrete EM action](Numerical_Checks/RG/)
-
-[Simulation Hamiltonian of different configurations for calculation Tc](Simulator/)
-
-[Microwave Absorption Signatures of Quantum Graph Dynamics](Numerical_Checks/Appendix_E)
+# Quantumograph:  Select Motif
 
 
 
-**T_c - given in dimensionless units (see theory)** 
+**Chimera** 
 
 
-![SimResult](Simulator/results_plot.png)
+![SimResult](chimera_like_8x8/P_of_t.png)
 
 ---
-![Appendix_E](Numerical_Checks/Appendix_E/dielectric_loss.png)
+![Appendix_E](chimera_like_8x8/spectrum.png)
 
 
 ## License
