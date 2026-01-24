@@ -5,10 +5,10 @@
 **Chimera** 
 
 
-![SimResult](chimera_like_8x8/P_of_t.png)
+![P of t](chimera_like_8x8/P_of_t.png)
 
 ---
-![Appendix_E](chimera_like_8x8/spectrum.png)
+![Spectrum](chimera_like_8x8/spectrum.png)
 
 
 ## License
