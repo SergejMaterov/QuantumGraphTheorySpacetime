@@ -1,4 +1,4 @@
-# Testable Quantum Graph Theory of Spacetime
+# Quantumograph: Testable Quantum Graph Theory of Spacetime
 
 
 
