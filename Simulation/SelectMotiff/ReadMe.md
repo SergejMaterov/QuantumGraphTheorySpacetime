@@ -1,4 +1,4 @@
-# Quantumograph:  Select Motif
+# Quantumograph:  Preliminary Select Motif
 
 
 
