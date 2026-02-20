@@ -1,0 +1,14 @@
+Cayley graph colour-preserving automorphism verification
+-------------------------------------------------------
+group parameters: Z_24 × S3 × Z_3 (implemented as direct product)
+generators used:
+  a: (1, (0, 1, 2), 0) color=red
+  s1: (0, (1, 0, 2), 0) color=blue
+  s2: (0, (0, 2, 1), 0) color=green
+  c: (0, (0, 1, 2), 1) color=yellow
+group size: 432
+left multiplication colour-preserving check: True
+
+colour-preserving mappings found by propagation (images of identity): 432
+number of extra (non-left) mappings found: 0
+No extra colour-preserving mappings discovered: all colour-preserving automorphisms correspond to left multiplications.
